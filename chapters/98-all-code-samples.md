@@ -882,4 +882,3 @@ find "$HOME/restore-test" -maxdepth 3 -type f -print
 ~~~~sh
 rsync -a --dry-run "$HOME/linux-practice/" "$HOME/backup/linux-practice/"
 ~~~~
-
