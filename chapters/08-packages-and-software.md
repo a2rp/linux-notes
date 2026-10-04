@@ -93,6 +93,6 @@ Before upgrading an important system, check available disk space, confirm backup
 ## References
 
 - [Ubuntu package management documentation](https://ubuntu.com/server/docs/package-management/)
-- [Ubuntu software management guidance](https://ubuntu.com/server/docs/tutorial/managing-software/)
+- [Ubuntu software management guidance](https://ubuntu.com/server/docs/package-management/)
 - [DNF documentation](https://dnf.readthedocs.io/)
 - [Pacman documentation](https://wiki.archlinux.org/title/Pacman)

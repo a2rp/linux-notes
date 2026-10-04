@@ -89,7 +89,7 @@ To leave a shell session, type <code>exit</code>. Closing the terminal window al
 
 ## References
 
-- [Welcome to the terminal](https://ubuntu.com/server/docs/tutorial/welcome-to-the-terminal/)
+- [Welcome to the terminal](https://ubuntu.com/server/docs/)
 - [Linux manual pages](https://man7.org/linux/man-pages/)
 - [GNU Bash Reference Manual](https://www.gnu.org/software/bash/manual/)
 - [Linux kernel documentation](https://docs.kernel.org/)
